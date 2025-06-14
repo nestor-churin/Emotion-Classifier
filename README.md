@@ -64,7 +64,7 @@ The system uses the Ukrainian emotions dataset `ukr-detect/ukr-emotions-binary` 
 ### 1. Clone the project
 ```bash
 git clone <repository-url>
-cd КП
+cd Emotion-Classifier
 ```
 
 ### 2. Install dependencies
